@@ -25,3 +25,7 @@
 # Future
 Travel the World
 
+# Fun Fact
+> My great grandfather went to North Korea
+
+My name is Jin and I like playing chess.
